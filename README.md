@@ -23,7 +23,7 @@ Alarm-Guard is a **Python-based AI alarm system** designed to detect intrusion o
 4. **Respond**: The owner receives the notification and can take swift action remotely.
 
 ---
-![Project Screenshot](assets/images/)
+![Project Screenshot](/images.jpg)
 
 ##  Why Use Alarm-Guard?
 
